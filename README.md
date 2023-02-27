@@ -1,14 +1,11 @@
-# BypassTPM-SecureBoot
-Bypass TPM and SecureBoot Check in Windows 11 Installation.
+# Bypass Windows 11
 
+Bypassing System Requirements are a must for older computers. Use this for an old PC or Tiny 11 w/ no sysreq.
+
+**I'm Not The Author Of Tiny11 NTDEV Is** Find it here: https://archive.org/details/tiny-11-NTDEV
+
+This adds More Registry Bypasses Than BypassTPM and SecureBoot
+
+This Was Forked From:
 Author:	Alammsyah
 Website:	https://github.com/laggye
-BypassTPMCheck&SecureBoot.reg
-
-Hardware Requirements:
-Number of Cores: 2
-Processor Frequency: 1000Mhz
-System Memory: 3960MB
-
-U can apply this reg file in properly installed copy of Windows 10 to get access to Insider Program, as well as merge this reg during Windows 11 Install. 
-;)
