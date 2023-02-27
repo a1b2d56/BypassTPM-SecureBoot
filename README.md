@@ -7,5 +7,7 @@ Bypassing System Requirements are a must for older computers. Use this for an ol
 This adds More Registry Bypasses Than BypassTPM and SecureBoot
 
 This Was Forked From:
+
 Author:	Alammsyah
+
 Website:	https://github.com/laggye
