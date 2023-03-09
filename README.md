@@ -1,8 +1,8 @@
 # BypassTPM-SecureBoot
 Bypass TPM and SecureBoot Check in Windows 11 Installation.
 
-Author:	Alammsyah
-Website:	https://github.com/laggye
+Author:	Devil 
+Website:	https://github.com/a1b2d56 (earlier github.com/laggye)
 BypassTPMCheck&SecureBoot.reg
 
 Hardware Requirements:
